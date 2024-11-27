@@ -10,6 +10,6 @@ public class FirstProgram
 		System.out.println("Date:11/20/2024");
 
 		//DialogBox
-		JOptionPane.showMessageDialog(null, "studentId:2413111176\nstudentName:Napassawan Promsakha Na Sakolnakorn\nTopic: gitHub\nDate:11/20/2024");
+		JOptionPane.showMessageDialog(null, "studentId:2413111176\nstudentName:Napassawan Promsakha Na Sakolnakorn\nTopic:gitHub\nDate:11/20/2024");
 	}
 }

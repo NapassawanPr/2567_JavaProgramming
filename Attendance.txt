@@ -1,4 +1,4 @@
 studentId: 2413111176
 studentName: Napassawan Promsakha Na Sakolnakorn
-Topic:gitHub
-Date:11/20/2024
+Topic: LabSheet#1: Display, Variable and Input
+Date: 11/27/2024
