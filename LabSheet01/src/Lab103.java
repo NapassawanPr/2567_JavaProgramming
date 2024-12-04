@@ -9,7 +9,7 @@ public class Lab103 {
 		int minute = time%60;
 		double total = (hour*50)+(minute*0.25);
 		
-		String message =  String.format("You parking %d Hour %d Minute.\n Amount to be paid is %,.2f baht.",hour,minute,total);
+		String message =  String.format("You parking %d Hour %d Minute.\n Amount to be paid is %,.1f baht.",hour,minute,total);
 		JOptionPane.showMessageDialog(null,message);
 		
 

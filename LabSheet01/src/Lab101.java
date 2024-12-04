@@ -29,6 +29,7 @@ public class Lab101 {
 		System.out.printf("Discount from 15%% \t %,.2f baht. ", totalWithDiscount);	
 		System.out.printf("\nAmount to be paid\t %,.2f baht. ", amount);	
 		
+		input.close();
 	}
 
 }
