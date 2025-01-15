@@ -1,4 +1,4 @@
 studentId: 2413111176
 studentName: Napassawan Promsakha Na Sakolnakorn
-Topic: LabSheet#5: Array and Array Method
-Date: 12/25/2024
+Topic: LabSheet #6: Class and Object
+Date: 1/15/2025
