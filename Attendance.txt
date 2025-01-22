@@ -1,4 +1,4 @@
 studentId: 2413111176
 studentName: Napassawan Promsakha Na Sakolnakorn
-Topic: LabSheet #6: Class and Object
-Date: 1/15/2025
+Topic: LabSheet #7: Encapsulation Concept
+Date: 1/22/2025
