@@ -1,4 +1,6 @@
 studentId: 2413111176
 studentName: Napassawan Promsakha Na Sakolnakorn
-Topic: Lab Sheet #8: Array Object, Composition Concept
-Date: 1/29/2025
+Topic: Lab Sheet #9:
+- Inheritance  Concept
+- Composition Concept
+Date: 2/5/2025
