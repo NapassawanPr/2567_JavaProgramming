@@ -13,7 +13,8 @@ public class Shop100Baht {
 		String input = JOptionPane.showInputDialog("Input the number of product:");
 		int units = Integer.parseInt(input);
 		sold.setUnit(units);
-
+		
+		
 		JOptionPane.showMessageDialog(null, sold);
 		}
 

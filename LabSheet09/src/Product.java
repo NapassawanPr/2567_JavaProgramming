@@ -13,6 +13,7 @@ public class Product {
 	public int getTotalPrice() {
 		return this.unit * 100;
 	}
+	
 
 	@Override
 	public String toString() {
