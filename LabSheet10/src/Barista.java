@@ -1,5 +1,4 @@
-
-public class Barista {
+class Barista {
 	private String name;
 	private char gender;
 
@@ -7,25 +6,22 @@ public class Barista {
 		this.name = name;
 		this.gender = gender;
 	}
-	Barista() {
 
+	Barista() {
+		this(null,' ');
 	}
+
 	public String getName() {
 		return name;
 	}
 
 	public String getGenderName() {
-		if(gender=='m' || gender =='M') {
+		if (gender == 'm' || gender == 'M') {
 			return "Male";
-		}
-		else if(gender=='f' || gender == 'F') {
+		} else if (gender == 'f' || gender == 'F') {
 			return "Female";
-		}
-		else {
+		} else {
 			return " ";
 		}
-	
 	}
-	
-
 }
